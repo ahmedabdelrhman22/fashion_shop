@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374352552806",
+    "firebase_url": "https://e-commerce-e58b0.firebaseio.com",
+    "project_id": "e-commerce-e58b0",
+    "storage_bucket": "e-commerce-e58b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374352552806:android:4c2eaa2c29efad07f61ea7",
+        "android_client_info": {
+          "package_name": "com.example.fashion_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374352552806-290850du09ktqqv6a7he97ek8n5jpp4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqwd_7_hswQu0x9uGkKmdk2kM19vYHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374352552806-290850du09ktqqv6a7he97ek8n5jpp4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
